@@ -1,12 +1,12 @@
 {
-  "name": "hello-world",
+  "name": "GET-POST Checker",
   "version": "1.0.0",
-  "description": "Hello world with express and node.js",
-  "main": "app.js",
+  "description": "Checks GET and POST submittions with node.js",
+  "main": "GET-POST_Checker.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "OSU",
+  "author": "Corey Savage",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.13.3",
